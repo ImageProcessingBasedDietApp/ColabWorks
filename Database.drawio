@@ -1,24 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T08:33:32.927Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="0QHUmxJ4JIbtNKO3DJ4s" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T08:56:35.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="ZjiXqv82SoffL8wTFsFn" version="13.10.6" type="github">
   <diagram id="bkKQT7h9eewYssHF2xtN" name="Page-1">
     <mxGraphModel dx="946" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YI6YxUA8oTtEPvSfXxos-6" value="USER" style="swimlane;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="160" height="280" as="geometry">
+          <mxGeometry x="120" y="80" width="160" height="200" as="geometry">
             <mxRectangle x="320" y="200" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YI6YxUA8oTtEPvSfXxos-7" value="ID&#xa;name&#xa;surname &#xa;email &#xa;profilePhoto&#xa;gender&#xa;birthdate&#xa;height &#xa;weight&#xa;meals&#xa;    mealType&#xa;    mealDate&#xa;    mealContents" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="YI6YxUA8oTtEPvSfXxos-6">
-          <mxGeometry y="30" width="160" height="250" as="geometry" />
+        <mxCell id="YI6YxUA8oTtEPvSfXxos-7" value="ID&#xa;name&#xa;surname &#xa;email &#xa;profilePhoto&#xa;gender&#xa;birthdate&#xa;height &#xa;weight&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="YI6YxUA8oTtEPvSfXxos-6">
+          <mxGeometry y="30" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="YI6YxUA8oTtEPvSfXxos-8" value="FOOD" style="swimlane;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="80" width="160" height="200" as="geometry">
+          <mxGeometry x="320" y="120" width="160" height="110" as="geometry">
             <mxRectangle x="320" y="200" width="90" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YI6YxUA8oTtEPvSfXxos-9" value="ID&#xa;name&#xa;calorie&#xa;servingType" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="YI6YxUA8oTtEPvSfXxos-8">
-          <mxGeometry y="30" width="160" height="170" as="geometry" />
+          <mxGeometry y="30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YI6YxUA8oTtEPvSfXxos-10" value="MEAL" style="swimlane;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="521" y="100" width="160" height="160" as="geometry">
+            <mxRectangle x="320" y="200" width="90" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YI6YxUA8oTtEPvSfXxos-11" value="ID&#xa;userID &#xa;type&#xa;date&#xa;contents&#xa;totalCalorie" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="YI6YxUA8oTtEPvSfXxos-10">
+          <mxGeometry y="30" width="160" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
