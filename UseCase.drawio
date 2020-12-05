@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T17:14:30.487Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="HazQJK6Xmwg7gwKa3WjR" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T17:14:46.984Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="KE4O9raeubXswa_WW8jX" version="13.10.9" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1186" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
           <mxGeometry x="290" y="280" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PHwH1iSal2Z3KxUu9u68-69" value="Calorie &lt;br&gt;Tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="540" width="90" height="60" as="geometry" />
+          <mxGeometry x="368" y="550" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PHwH1iSal2Z3KxUu9u68-70" value="Weight &lt;br&gt;Tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="440" width="90" height="60" as="geometry" />
@@ -136,7 +136,7 @@
             <mxPoint x="410" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PHwH1iSal2Z3KxUu9u68-92" value="" style="html=1;labelBackgroundColor=#ffffff;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="PHwH1iSal2Z3KxUu9u68-69" target="PHwH1iSal2Z3KxUu9u68-65">
+        <mxCell id="PHwH1iSal2Z3KxUu9u68-92" value="" style="html=1;labelBackgroundColor=#ffffff;endArrow=classic;endFill=1;endSize=6;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.15;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PHwH1iSal2Z3KxUu9u68-69" target="PHwH1iSal2Z3KxUu9u68-65">
           <mxGeometry width="60" height="60" relative="1" as="geometry">
             <mxPoint x="90" y="730" as="sourcePoint" />
             <mxPoint x="660" y="530" as="targetPoint" />
