@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-05T16:47:55.547Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="0p64xnhd4AqY900HG0Xq" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-05T16:53:18.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15" etag="Gjp5H4ivVjd0OYYrGJRV" version="13.10.9" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
     <mxGraphModel dx="1186" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -8,22 +8,25 @@
           <mxGeometry x="80" y="255" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PHwH1iSal2Z3KxUu9u68-64" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="350" height="510" as="geometry" />
+          <mxGeometry x="520" y="560" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="PHwH1iSal2Z3KxUu9u68-65" value="Database" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="265" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PHwH1iSal2Z3KxUu9u68-66" value="Add Meal by Photo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="160" width="90" height="60" as="geometry" />
+          <mxGeometry x="240" y="170" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PHwH1iSal2Z3KxUu9u68-67" value="Manage Notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="90" width="90" height="60" as="geometry" />
+          <mxGeometry x="240" y="100" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHwH1iSal2Z3KxUu9u68-68" value="Manage Notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="230" width="90" height="60" as="geometry" />
+        <mxCell id="PHwH1iSal2Z3KxUu9u68-68" value="Water &lt;br&gt;Tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PHwH1iSal2Z3KxUu9u68-69" value="Manage Notifications" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="300" width="90" height="60" as="geometry" />
+        <mxCell id="PHwH1iSal2Z3KxUu9u68-69" value="Calorie &lt;br&gt;Tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PHwH1iSal2Z3KxUu9u68-70" value="Weight &lt;br&gt;Tracking" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
